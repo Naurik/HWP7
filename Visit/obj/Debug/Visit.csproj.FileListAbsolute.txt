@@ -1,0 +1,15 @@
+c:\users\машимовн.corp\source\repos\Visit\Visit\bin\Debug\Visit.exe.config
+c:\users\машимовн.corp\source\repos\Visit\Visit\bin\Debug\Visit.exe
+c:\users\машимовн.corp\source\repos\Visit\Visit\bin\Debug\Visit.pdb
+c:\users\машимовн.corp\source\repos\Visit\Visit\bin\Debug\EntityFramework.dll
+c:\users\машимовн.corp\source\repos\Visit\Visit\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\машимовн.corp\source\repos\Visit\Visit\bin\Debug\EntityFramework.xml
+c:\users\машимовн.corp\source\repos\Visit\Visit\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\машимовн.corp\source\repos\Visit\Visit\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\машимовн.corp\source\repos\Visit\Visit\obj\Debug\Visit.csprojAssemblyReference.cache
+c:\users\машимовн.corp\source\repos\Visit\Visit\obj\Debug\Visit.csproj.CoreCompileInputs.cache
+c:\users\машимовн.corp\source\repos\Visit\Visit\obj\Debug\Visit.csproj.CopyComplete
+c:\users\машимовн.corp\source\repos\Visit\Visit\obj\Debug\Visit.exe
+c:\users\машимовн.corp\source\repos\Visit\Visit\obj\Debug\Visit.pdb
+C:\Users\МашимовН.CORP\source\repos\Visit\Visit\obj\Debug\Visit.Migrations.SecandChance.resources
+C:\Users\МашимовН.CORP\source\repos\Visit\Visit\obj\Debug\Visit.csproj.GenerateResource.cache
